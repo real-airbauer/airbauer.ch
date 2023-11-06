@@ -1,20 +1,19 @@
 {
 	"$schema": "https://openapi.vercel.sh/vercel.json",
 	"version": 2,
-	"alias": "nuro.dev",
+	"alias": "airbauer.ch",
 	"cleanUrls": true,
 	"public": true,
 	"regions": ["lhr1"],
 	"redirects": [
-		{ "source": "/cv", "destination": "https://read.cv/nuro" },
-		{ "source": "/github", "destination": "https://github.com/nurodev" },
-		{ "source": "/linkedin", "destination": "https://www.linkedin.com/in/nurodev" },
+		{ "source": "/cv", "destination": "https://read.cv/airbauer" },
+		{ "source": "/github", "destination": "https://github.com/real-airbauer" },
 		{ "source": "/portfolio", "destination": "/projects" },
-		{ "source": "/resume", "destination": "https://read.cv/nuro" },
-		{ "source": "/twitter", "destination": "https://twitter.com/nurodev" },
+		{ "source": "/resume", "destination": "https://read.cv/airbauer" },
+		{ "source": "/twitter", "destination": "https://twitter.com/real_airbauer" },
 		{
 			"source": "/contact",
-			"destination": "https://twitter.com/direct_messages/create/nurodev"
+			"destination": "https://twitter.com/direct_messages/create/real_airbauer"
 		}
 	]
 }
