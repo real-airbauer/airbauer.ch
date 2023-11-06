@@ -1,10 +1,10 @@
 {
 	"private": true,
-	"name": "nuro.dev",
+	"name": "airbauer.ch",
 	"version": "2.1.1",
-	"description": "Personal Website for nuro.dev",
-	"repository": "https://github.com/nurodev/nuro.dev.git",
-	"author": "nurodev <me@nuro.dev>",
+	"description": "Personal Website for airbauer.ch",
+	"repository": "https://github.com/real-airbauer/airbauer.ch.git",
+	"author": "airbauer <airbauer@proton.me>",
 	"license": "MIT",
 	"prettier": {
 		"arrowParens": "always",
