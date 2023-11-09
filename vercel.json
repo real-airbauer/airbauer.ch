@@ -11,9 +11,11 @@
 		{ "source": "/portfolio", "destination": "/projects" },
 		{ "source": "/resume", "destination": "https://read.cv/airbauer" },
 		{ "source": "/twitter", "destination": "https://twitter.com/real_airbauer" },
+		{ "source": "/keybase", "destination": "https://keybase.com/airbauer" },
+		{ "source": "/discord", "destination": "https://discord.com/users/549207539544227846" },
 		{
 			"source": "/contact",
-			"destination": "https://twitter.com/direct_messages/create/real_airbauer"
+			"destination": "mailto:airbauer@proton.me"
 		}
 	]
 }
