@@ -13,6 +13,7 @@
 		{ "source": "/twitter", "destination": "https://twitter.com/real_airbauer" },
 		{ "source": "/keybase", "destination": "https://keybase.com/airbauer" },
 		{ "source": "/discord", "destination": "https://discord.com/users/549207539544227846" },
+		{ "source": "/porn", "destination": "https://de.pornhub.com" },
 		{
 			"source": "/contact",
 			"destination": "mailto:airbauer@proton.me"
