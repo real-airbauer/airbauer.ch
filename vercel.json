@@ -4,7 +4,7 @@
 	"alias": "airbauer.ch",
 	"cleanUrls": true,
 	"public": true,
-	"regions": ["lhr1"],
+	"regions": ["fra2"],
 	"redirects": [
 		{ "source": "/cv", "destination": "https://read.cv/airbauer" },
 		{ "source": "/github", "destination": "https://github.com/real-airbauer" },
