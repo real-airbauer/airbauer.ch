@@ -56,27 +56,27 @@ const Projects: React.FC = () => {
 const projects = [
   {
     id: 1,
-    title: "Sat Naing's Blog",
-    desc: "My personal blog where I can write down my thoughts and experiences.",
-    url: "https://satnaing.dev/blog/",
+    title: "Terminal Portfolio",
+    desc: "This Website?",
+    url: "https://airbauer.ch",
   },
   {
     id: 2,
-    title: "Haru Fashion",
-    desc: "An ecommerce web application where users can browse various products and make purchases.",
-    url: "https://haru-fashion.vercel.app/",
+    title: "noAfD.world",
+    desc: "Hard to explain, if you are German you should know.",
+    url: "https://noafd.world/",
   },
   {
     id: 3,
-    title: "Haru API",
-    desc: "A RESTful API developed for the Haru fashion ecommerce project.",
-    url: "https://satnaing.github.io/haru-api/",
+    title: "Birthday Bot",
+    desc: "A Birthday Bot for Discord, based on Python.",
+    url: "https://real-airbauer.github.io/birthday/",
   },
   {
     id: 4,
-    title: "AstroPaper Blog Theme",
-    desc: "A minimal, accessible and SEO-friendly Astro blog theme.",
-    url: "https://astro-paper.pages.dev/",
+    title: "Blog",
+    desc: "my Blog or so bro idk man.",
+    url: "https://airbauer.ch/blog",
   },
 ];
 
