@@ -71,7 +71,19 @@ const socials = [
     id: 4,
     title: "Instagram",
     url: "https://instagram.com/airbauer.ch",
-    tab: 0,
+    tab: 3,
+  },
+  {
+    id: 5,
+    title: "Codeberg",
+    url: "https://codeberg.org/airbauer",
+    tab: 3,
+  },
+  {
+    id: 6,
+    title: "Gitlab (Selfhosted)",
+    url: "https://gitlab.airbauer.ch",
+    tab: 3,
   },
 ];
 
