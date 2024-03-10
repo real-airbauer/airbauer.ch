@@ -2,7 +2,6 @@ import {
   Cmd,
   HeroContainer,
   Link,
-  PreImg,
   PreName,
   PreNameMobile,
   PreWrapper,
